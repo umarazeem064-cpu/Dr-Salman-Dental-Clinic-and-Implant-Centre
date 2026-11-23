@@ -1,0 +1,6 @@
+{
+  "name": "Dr Salman Dental Clinic and Implant Centre",
+  "description": "Painless dental care, dental implants, orthodontics, cosmetic dentistry, and family oral healthcare in Buffer Zone, North Nazimabad, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
